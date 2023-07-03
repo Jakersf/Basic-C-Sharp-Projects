@@ -1,0 +1,6 @@
+C:\Users\Jacob\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\ConsoleApplicationAssignment\ConsoleApplicationAssignment\bin\Debug\ConsoleApplicationAssignment.exe.config
+C:\Users\Jacob\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\ConsoleApplicationAssignment\ConsoleApplicationAssignment\bin\Debug\ConsoleApplicationAssignment.exe
+C:\Users\Jacob\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\ConsoleApplicationAssignment\ConsoleApplicationAssignment\bin\Debug\ConsoleApplicationAssignment.pdb
+C:\Users\Jacob\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\ConsoleApplicationAssignment\ConsoleApplicationAssignment\obj\Debug\ConsoleApplicationAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Jacob\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\ConsoleApplicationAssignment\ConsoleApplicationAssignment\obj\Debug\ConsoleApplicationAssignment.exe
+C:\Users\Jacob\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\ConsoleApplicationAssignment\ConsoleApplicationAssignment\obj\Debug\ConsoleApplicationAssignment.pdb
