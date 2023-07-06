@@ -1,0 +1,7 @@
+C:\Users\Jacob\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\BooleanComparison\BooleanComparison\obj\Debug\BooleanComparison.csproj.AssemblyReference.cache
+C:\Users\Jacob\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\BooleanComparison\BooleanComparison\obj\Debug\BooleanComparison.csproj.CoreCompileInputs.cache
+C:\Users\Jacob\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\BooleanComparison\BooleanComparison\bin\Debug\BooleanComparison.exe.config
+C:\Users\Jacob\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\BooleanComparison\BooleanComparison\bin\Debug\BooleanComparison.exe
+C:\Users\Jacob\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\BooleanComparison\BooleanComparison\bin\Debug\BooleanComparison.pdb
+C:\Users\Jacob\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\BooleanComparison\BooleanComparison\obj\Debug\BooleanComparison.exe
+C:\Users\Jacob\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\BooleanComparison\BooleanComparison\obj\Debug\BooleanComparison.pdb
