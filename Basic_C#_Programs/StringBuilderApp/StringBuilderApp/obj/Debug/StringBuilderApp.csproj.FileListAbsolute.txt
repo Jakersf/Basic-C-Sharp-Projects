@@ -1,0 +1,7 @@
+C:\Users\Jacob\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\StringBuilderApp\StringBuilderApp\obj\Debug\StringBuilderApp.csproj.AssemblyReference.cache
+C:\Users\Jacob\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\StringBuilderApp\StringBuilderApp\obj\Debug\StringBuilderApp.csproj.CoreCompileInputs.cache
+C:\Users\Jacob\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\StringBuilderApp\StringBuilderApp\bin\Debug\StringBuilderApp.exe.config
+C:\Users\Jacob\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\StringBuilderApp\StringBuilderApp\bin\Debug\StringBuilderApp.exe
+C:\Users\Jacob\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\StringBuilderApp\StringBuilderApp\bin\Debug\StringBuilderApp.pdb
+C:\Users\Jacob\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\StringBuilderApp\StringBuilderApp\obj\Debug\StringBuilderApp.exe
+C:\Users\Jacob\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\StringBuilderApp\StringBuilderApp\obj\Debug\StringBuilderApp.pdb
