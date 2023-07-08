@@ -1,0 +1,7 @@
+C:\Users\Jacob\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\StringsAndIntegersApp\StringsAndIntegersApp\bin\Debug\StringsAndIntegersApp.exe.config
+C:\Users\Jacob\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\StringsAndIntegersApp\StringsAndIntegersApp\bin\Debug\StringsAndIntegersApp.exe
+C:\Users\Jacob\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\StringsAndIntegersApp\StringsAndIntegersApp\bin\Debug\StringsAndIntegersApp.pdb
+C:\Users\Jacob\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\StringsAndIntegersApp\StringsAndIntegersApp\obj\Debug\StringsAndIntegersApp.csproj.CoreCompileInputs.cache
+C:\Users\Jacob\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\StringsAndIntegersApp\StringsAndIntegersApp\obj\Debug\StringsAndIntegersApp.exe
+C:\Users\Jacob\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\StringsAndIntegersApp\StringsAndIntegersApp\obj\Debug\StringsAndIntegersApp.pdb
+C:\Users\Jacob\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\StringsAndIntegersApp\StringsAndIntegersApp\obj\Debug\StringsAndIntegersApp.csproj.AssemblyReference.cache
