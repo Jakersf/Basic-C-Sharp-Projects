@@ -12,25 +12,25 @@ namespace Method
         {
            
 
-            Console.WriteLine("Please input the first number.");
+            Console.WriteLine("Please input the first number."); //Asks the user for a number
 
             int num1 = Convert.ToInt32(Console.ReadLine());
 
-            Console.WriteLine("Please input the second number.(OPTIONAL)");
+            Console.WriteLine("Please input the second number.(OPTIONAL)"); //Asks the user for an optional second number.
 
-            string emptycheck = Console.ReadLine();
-            int num2 = 0;
+            string emptycheck = Console.ReadLine(); //Stores the user's input as a variable
+            int num2 = 0; //Sets the default value of num2 to 0
 
-            if (!string.IsNullOrEmpty(emptycheck))
+            if (!string.IsNullOrEmpty(emptycheck)) //Checks if the user didn't input anything for the second number, and if so runs int.Parse to convert it to an integer so it doesn't throw an error.
             {
                 num2 = int.Parse(emptycheck);
             }
 
-            Math math = new Math();
+            Math math = new Math(); //Instantiates the class within the program
 
-            int total = math.Add5(num1, num2);
+            int total = math.Add5(num1, num2); //Uses the Add5 method with num1 and num2
 
-            Console.WriteLine(num1 + " + " + num2 + " + 5 = " + total);
+            Console.WriteLine(num1 + " + " + num2 + " + 5 = " + total); //Displays the results
             Console.ReadLine();
             
 
