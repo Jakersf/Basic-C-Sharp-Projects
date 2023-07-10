@@ -8,6 +8,7 @@ namespace MethodClass
 {
     class Math
     {
+        
         public void quickmaths(int num1, int num2) //Creates a method that performs a math operation on the first number, and displays the second one. 
             {
 
@@ -17,3 +18,4 @@ namespace MethodClass
             }
     }
 }
+
