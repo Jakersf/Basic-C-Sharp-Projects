@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.IO;
 
 namespace BlackjackGame
 {
@@ -15,8 +16,14 @@ namespace BlackjackGame
         public void Deal(List<Card> Hand)
         {
             Hand.Add(Deck.Cards.First());
+            string card = string.Format(Deck.Cards.First().ToString() + "\n");
             Console.WriteLine(Deck.Cards.First().ToString() + "\n");
+            using (StreamWriter file = new StreamWriter(@"C:\Users\Jacob\Desktop\Logs\log.txt", true))
+            {
+                file.WriteLine(card);
+            }
             Deck.Cards.RemoveAt(0);
+            
         }
     }
 }
