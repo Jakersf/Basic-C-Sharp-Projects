@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ClassVoid
 {
-    class Math
+    public class Math
     {
         public void DivideBy2(int num1) //Method divides a number by 2 and then writes it to the console.
         {

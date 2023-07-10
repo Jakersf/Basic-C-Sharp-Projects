@@ -12,6 +12,7 @@ namespace ClassVoid
         {
 
             Math math = new Math(); //Instantiates the Math class
+            
 
             Console.WriteLine("Please enter a number."); //Asks the user for a number
             int Input = Convert.ToInt32(Console.ReadLine()); //Converts the user's input to an integer
@@ -20,15 +21,17 @@ namespace ClassVoid
 
             int result; //Declares the integer "result" so that it can be passed out by a method once the method assigns it a new value.
 
-            
 
+            
             math.DivideBy2(Input); //Calls the DivideBy2 method on the user's first input
             math.Add(Input); //Calls the Add method on the user's first input, this method is overloaded and has 2 variants.
-            Double(Input); //Calls the Double method, which is static
+            bool comparison = Math2.inputcomparison(Input);//Calls a static method from the Math2 class
+            if (comparison == true) Console.WriteLine(Input + " is greater than 5.");
+            else Console.WriteLine(Input + " is not greater than 5.");
 
-            
 
-            
+
+
 
             math.Add(out result, Input, Input2); //Method uses an out parameter to display the results, rather than writing them itself.
 
@@ -43,11 +46,6 @@ namespace ClassVoid
             
         }
 
-        static void Double(int num) //Static class, method displays Input * 2 in the console
-        {
-            int result = num * 2;
-            Console.WriteLine(num + " * 2 = " + result);
-           
-        }
+        
     }
 }
