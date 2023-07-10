@@ -4,3 +4,4 @@ C:\Users\Jacob\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\Method\
 C:\Users\Jacob\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\Method\Method\obj\Debug\Method.csproj.CoreCompileInputs.cache
 C:\Users\Jacob\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\Method\Method\obj\Debug\Method.exe
 C:\Users\Jacob\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\Method\Method\obj\Debug\Method.pdb
+C:\Users\Jacob\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\Method\Method\obj\Debug\Method.csproj.AssemblyReference.cache
