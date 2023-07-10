@@ -8,6 +8,6 @@ namespace Polymorphism
 {
     interface IQuittable
     {
-        void Quit(Employee employee); //Creates a void method Quit() to be inherited
+        void Quit(); //Creates a void method Quit() to be inherited
     }
 }

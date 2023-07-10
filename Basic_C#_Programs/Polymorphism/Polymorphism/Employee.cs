@@ -13,7 +13,7 @@ namespace Polymorphism
             Console.WriteLine("Name: " + FirstName + " " + LastName);  
         }
 
-        public void Quit(Employee employee) //inherits the Quit(Employee employee) method from the interface IQuittable
+        public void Quit() //inherits the Quit(Employee employee) method from the interface IQuittable
         {
             Console.WriteLine(FirstName + " " + LastName + " quits."); //Displays a message stating that the employee the method was called on quit.
         }

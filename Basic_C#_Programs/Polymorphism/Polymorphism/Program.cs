@@ -10,8 +10,8 @@ namespace Polymorphism
     {
         static void Main(string[] args)
         {
-            Employee employee = new Employee() { FirstName = "Sample", LastName = "Student" };
-            employee.Quit(employee); //Executes the method Quit() which has displays that the employee who the method was called on quit.
+            IQuittable employee = new Employee() { FirstName = "Sample", LastName = "Student" }; //Instantiates an object of the type IQuittable, which demonstrates polymorphism.
+            employee.Quit(); //Executes the method Quit() which has displays that the employee who the method was called on quit.
             Console.ReadLine();
     }
     }
