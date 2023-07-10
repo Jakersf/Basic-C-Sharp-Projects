@@ -26,7 +26,7 @@ namespace ClassVoid
             math.DivideBy2(Input); //Calls the DivideBy2 method on the user's first input
             math.Add(Input); //Calls the Add method on the user's first input, this method is overloaded and has 2 variants.
             bool comparison = Math2.inputcomparison(Input);//Calls a static method from the Math2 class
-            if (comparison == true) Console.WriteLine(Input + " is greater than 5.");
+            if (comparison == true) Console.WriteLine(Input + " is greater than 5."); //some fun code added to use a static method to compare a number.
             else Console.WriteLine(Input + " is not greater than 5.");
 
 
