@@ -11,9 +11,9 @@ namespace AbstractClass
         static void Main(string[] args)
         {
 
-            Employee employee = new Employee() { FirstName = "Jacob", LastName = "Farr" };
+            Employee employee = new Employee() { FirstName = "Sample", LastName = "Student" }; //Instantiates an employee object, with the First and Last name property being Sample and Student
 
-            employee.SayName();
+            employee.SayName(); //Calls the SayName() method on the employee object
 
             Console.ReadLine();
         }
