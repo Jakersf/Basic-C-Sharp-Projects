@@ -1,7 +1,9 @@
 C:\Users\Jacob\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\BlackjackGame\BlackjackGame\bin\Debug\BlackjackGame.exe.config
 C:\Users\Jacob\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\BlackjackGame\BlackjackGame\bin\Debug\BlackjackGame.exe
 C:\Users\Jacob\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\BlackjackGame\BlackjackGame\bin\Debug\BlackjackGame.pdb
-C:\Users\Jacob\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\BlackjackGame\BlackjackGame\obj\Debug\BlackjackGame.csproj.AssemblyReference.cache
 C:\Users\Jacob\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\BlackjackGame\BlackjackGame\obj\Debug\BlackjackGame.csproj.CoreCompileInputs.cache
 C:\Users\Jacob\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\BlackjackGame\BlackjackGame\obj\Debug\BlackjackGame.exe
 C:\Users\Jacob\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\BlackjackGame\BlackjackGame\obj\Debug\BlackjackGame.pdb
+C:\Users\Jacob\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\BlackjackGame\BlackjackGame\bin\Debug\Casino.pdb
+C:\Users\Jacob\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\BlackjackGame\BlackjackGame\obj\Debug\BlackjackGame.csproj.CopyComplete
+C:\Users\Jacob\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\BlackjackGame\BlackjackGame\obj\Debug\BlackjackGame.csproj.AssemblyReference.cache

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BlackjackGame
 {
-    public class TwentyOneGame : Game, IWalkAway
+    public class TwentyOneGame : Game
     {
         public TwentyOneDealer Dealer { get; set; }
         public override void Play()
