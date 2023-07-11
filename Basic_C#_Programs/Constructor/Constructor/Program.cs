@@ -10,11 +10,12 @@ namespace Constructor
     {
         static void Main(string[] args)
         {
-            const int range = 10;
+            const int range = 10; //Creates a constant
+            var range2 = 10; //Creates a variable using var
 
 
-            Math math = new Math(range, 10);
-            math.Multiplyby2();
+            Math math = new Math(range, range2); //Instantiates the class, and passing it 2 parameters to a constructor
+            math.Multiplyby2(); //Void method for multiplication is called
             Console.ReadLine();
 
             
